@@ -1,0 +1,23 @@
+# MATLAB
+*.mat
+*.fig
+*.slx
+*.mdl
+
+# 生成的 Word 文档（源码才是版本控制对象）
+*.docx
+*.doc
+
+# docx-js 报告生成脚本
+generate_report.js
+
+# 老师的原始模板（参考素材，不属于源码）
+模板/
+
+# 操作系统
+Thumbs.db
+.DS_Store
+
+# MATLAB 临时文件
+*.asv
+*.m~
